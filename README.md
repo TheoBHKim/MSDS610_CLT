@@ -7,6 +7,6 @@ Directions for using the simulation:
 
 Use the below intuitive and easy to adjust levers, to see the histogram get plotted for the sampling distribution as well as validate Central limit theorem
 
-Population Distribution selection from drop down
-Sample size and no of samples from sliders
-No of bins in the output histogram from slider
+1. Population Distribution selection from drop down
+2. Sample size and no of samples from sliders
+3. No of bins in the output histogram from slider
